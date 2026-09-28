@@ -1,2 +1,2 @@
-# trilha-vocabulario
+trilha-vocabulario.html
 Vocabulary game
